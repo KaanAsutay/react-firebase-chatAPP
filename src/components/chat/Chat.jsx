@@ -35,6 +35,51 @@ const Chat = () => {
             
             <div className="center">
 
+                <div className="message">
+                    <img src="./avatar.png" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
+                <div className="message own">
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="./avatar.png" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
+                <div className="message own">
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="./avatar.png" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
+                <div className="message own">
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+
             </div>
 
             <div className="bottom">
