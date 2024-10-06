@@ -75,6 +75,7 @@ const Chat = () => {
 
                 <div className="message own">
                     <div className="texts">
+                        <img src="https://images.pexels.com/photos/7381200/pexels-photo-7381200.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load" />
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, rem.</p>
                         <span>1 min ago</span>
                     </div>
